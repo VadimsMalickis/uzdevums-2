@@ -8,7 +8,8 @@ Programmai jāļauj lietotājam reģistrēt jaunus studentus, ievadot šādu inf
 - Uzvārds
 - E-pasts
 - Grupa
-Datiem jāglabā csv failā.
+- 
+Datus jāglabā csv failā.
 Katrai programmas funkcionalitātei jāatrodas savā klassē, katra klassei ir sava loma un mērķis.
 
 # Uzdevuma izpildes soļi:
